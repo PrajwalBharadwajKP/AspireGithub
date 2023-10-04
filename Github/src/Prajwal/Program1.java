@@ -26,14 +26,7 @@ public class Program1 {
 	public void madhusudhan() {
 		System.out.println("code by madhusudhan.N");
 	}
-
-	public void usman()
-	{
-		System.out.println("Code pushed by Usman");
-  }
-
 	public void t1()
 	{
 		System.out.println("code pushed by Trisulam");
   }
-
